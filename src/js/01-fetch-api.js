@@ -1,4 +1,4 @@
-import { pokemonCardTpl } from "../templates/pokemon";
+import { pokemonCardTpl } from "../templates/pokemon.handlebars";
 
 const cardContainer = document.querySelector('.js-card-container');
 const form = document.querySelector('.js-search-form');
