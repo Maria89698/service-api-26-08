@@ -1,5 +1,6 @@
 // import testTpl from './test.handlebars';
 import "./js/01-fetch-api.js";
+import "./js/02-cors.js"
 
 // document.getElementById('js-creater')
 // .addEventListener('click', ()=>{
